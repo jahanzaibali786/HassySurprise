@@ -1,4 +1,4 @@
-var countDownDate = new Date("Feb 24,2023 09:02:00 PM").getTime();
+var countDownDate = new Date("Feb 24,2023 09:50:00 PM").getTime();
 
 var countdownfunction = setInterval(function() {
 
